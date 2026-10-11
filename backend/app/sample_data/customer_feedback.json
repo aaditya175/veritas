@@ -1,0 +1,34 @@
+[
+  {
+    "text": "The synthetic dataset generation pipeline completed in under 10 seconds. The resulting correlation matrix matched our ground-truth data with high fidelity.",
+    "category": "Performance"
+  },
+  {
+    "text": "Navigating the DAG causal editor was seamless. Adding and inverting causal directed edges between features allowed our team to encode exact domain expertise.",
+    "category": "Usability"
+  },
+  {
+    "text": "The SHAP explainability scorecard clearly highlighted why income was diverging between models. This diagnostic helped us calibrate marginal constraints.",
+    "category": "Explainability"
+  },
+  {
+    "text": "The counterfactual explorer gave our compliance team a reliable method to audit algorithmic bias and verify equalized odds under intervention.",
+    "category": "Fairness & Causal"
+  },
+  {
+    "text": "We experienced zero duplicate row leakage when running the distance-to-closest-record check, proving strict privacy preservation for HIPAA compliance.",
+    "category": "Privacy"
+  },
+  {
+    "text": "Requesting support for automatic multi-table relational schema generation in future versions alongside image latent manipulation.",
+    "category": "Feature Request"
+  },
+  {
+    "text": "Customer support responded promptly when we queried how the NOTEARS continuous optimization penalty handles high-dimensional categorical features.",
+    "category": "Support"
+  },
+  {
+    "text": "The CTGAN baseline captured multimodal income clusters, but the Causal SCM generator was significantly more robust on what-if counterfactual scenarios.",
+    "category": "Performance"
+  }
+]

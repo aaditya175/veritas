@@ -1,0 +1,301 @@
+Age,Education,Experience,Occupation,HoursPerWeek,Department,Income,PerformanceScore
+35,Bachelor's,10.8,Manager,41,Operations,135100,4.3
+31,Bachelor's,6.4,Developer,39,Product,88100,4.0
+36,Master's,10.9,Developer,37,Engineering,114700,4.4
+42,Master's,12.1,Analyst,41,Analytics,124600,5.0
+30,PhD,2.2,Researcher,51,AI Lab,131700,4.0
+30,Master's,4.6,Manager,45,Management,119300,3.6
+43,Bachelor's,16.9,Developer,39,Engineering,140500,4.7
+37,Master's,9.1,Manager,45,Management,141400,4.0
+28,Bachelor's,3.9,Developer,49,Product,90400,3.0
+35,PhD,6.8,Developer,47,Product,132800,4.5
+28,Master's,2.9,Researcher,42,R&D,113200,3.8
+28,Bachelor's,5.0,Developer,39,Engineering,88900,4.1
+33,Master's,6.0,Researcher,45,AI Lab,131400,4.3
+22,Bachelor's,0.0,Developer,44,Product,69300,4.2
+22,Bachelor's,0.0,Developer,46,Product,75900,4.5
+28,Master's,2.5,Manager,45,Operations,113500,3.9
+24,Bachelor's,1.5,Analyst,47,Analytics,69100,4.4
+34,Master's,6.5,Analyst,39,Finance,97800,4.0
+25,Bachelor's,1.9,Analyst,49,Finance,68700,4.5
+22,Master's,0.0,Manager,43,Management,96000,4.4
+42,Bachelor's,14.6,Manager,52,Management,151700,3.6
+30,Bachelor's,7.4,Analyst,39,Finance,77400,4.6
+32,PhD,3.5,Manager,51,Management,141700,3.8
+22,Bachelor's,0.0,Developer,43,Engineering,63000,4.5
+28,Bachelor's,5.4,Developer,39,Product,86000,4.3
+32,PhD,4.2,Researcher,40,R&D,131500,5.0
+23,Master's,0.0,Researcher,40,AI Lab,103200,4.0
+34,Master's,7.6,Developer,44,Product,115400,3.9
+27,Master's,2.2,Analyst,45,Analytics,83700,4.1
+29,Bachelor's,6.8,Analyst,39,Analytics,80400,3.9
+27,Bachelor's,4.7,Developer,42,Engineering,85700,4.5
+44,Bachelor's,21.7,Manager,53,Operations,187700,3.3
+31,Master's,4.5,Researcher,51,AI Lab,128700,3.6
+24,Bachelor's,1.8,Developer,44,Engineering,82200,3.6
+37,Master's,12.7,Manager,42,Management,153900,4.6
+23,Bachelor's,0.7,Developer,43,Engineering,73300,5.0
+33,Bachelor's,6.9,Analyst,45,Finance,90600,4.0
+22,Bachelor's,0.0,Researcher,37,AI Lab,92300,4.0
+22,Bachelor's,0.0,Analyst,41,Finance,56500,4.1
+33,Master's,8.4,Manager,34,Management,122300,4.7
+37,Master's,8.5,Analyst,44,Finance,107500,3.6
+33,PhD,5.5,Researcher,45,AI Lab,139500,4.2
+31,Bachelor's,6.1,Developer,40,Engineering,88500,4.6
+29,Bachelor's,4.7,Analyst,50,Finance,85100,4.4
+22,Bachelor's,0.0,Developer,36,Engineering,66800,4.2
+26,Master's,1.9,Manager,35,Operations,101100,4.6
+28,Master's,3.5,Developer,43,Product,95300,2.7
+39,Bachelor's,13.8,Developer,47,Engineering,135400,4.4
+34,Bachelor's,8.9,Developer,50,Product,111300,3.8
+22,Bachelor's,0.0,Manager,40,Operations,95400,3.2
+34,Bachelor's,9.1,Developer,47,Product,111100,4.4
+29,Master's,4.6,Analyst,42,Analytics,80900,4.8
+27,Master's,2.3,Developer,41,Product,90500,4.0
+36,Bachelor's,10.5,Developer,46,Product,115400,4.6
+39,Bachelor's,13.3,Developer,45,Product,130000,4.9
+38,PhD,7.9,Researcher,34,AI Lab,146100,4.8
+26,Bachelor's,3.6,Developer,49,Engineering,86800,4.9
+29,Bachelor's,5.6,Manager,49,Management,110800,4.5
+34,Master's,6.9,Analyst,39,Analytics,94300,4.1
+38,PhD,10.6,Researcher,44,R&D,159300,3.3
+28,PhD,0.8,Manager,44,Operations,114200,4.0
+30,Master's,4.9,Developer,43,Product,102300,3.7
+24,Bachelor's,1.9,Analyst,39,Analytics,68900,5.0
+23,Bachelor's,0.8,Developer,39,Engineering,69100,4.0
+37,Master's,8.4,Analyst,42,Analytics,99100,4.2
+41,Master's,16.6,Manager,48,Management,174900,4.4
+31,Master's,6.0,Researcher,45,AI Lab,136000,4.1
+39,PhD,8.8,Researcher,40,R&D,149500,4.9
+34,Bachelor's,7.9,Researcher,46,AI Lab,127400,3.8
+27,Bachelor's,4.6,Developer,30,Product,76400,4.2
+34,Bachelor's,10.2,Analyst,48,Analytics,101100,3.7
+42,Master's,14.6,Manager,33,Operations,155300,3.4
+31,Bachelor's,8.6,Developer,40,Product,100600,3.8
+42,Bachelor's,18.3,Manager,36,Operations,160300,4.1
+22,Bachelor's,0.0,Analyst,36,Finance,48300,3.9
+37,Master's,9.4,Researcher,48,AI Lab,146100,3.8
+32,Master's,5.6,Analyst,40,Finance,93400,3.4
+29,Master's,4.5,Manager,44,Management,117600,4.1
+32,PhD,3.1,Researcher,42,AI Lab,136500,3.3
+22,Bachelor's,0.0,Analyst,44,Finance,56600,4.5
+30,Bachelor's,7.2,Developer,42,Engineering,97700,4.1
+34,PhD,6.7,Developer,36,Engineering,118700,3.4
+42,Bachelor's,14.7,Developer,47,Product,126700,3.9
+28,PhD,0.9,Analyst,40,Finance,76700,3.7
+26,Bachelor's,2.6,Developer,34,Product,65000,4.3
+28,PhD,0.9,Manager,40,Operations,118800,4.8
+38,Bachelor's,10.4,Developer,50,Product,114500,3.2
+34,PhD,5.3,Developer,46,Engineering,127300,4.2
+28,Bachelor's,5.5,Researcher,40,AI Lab,110800,4.0
+35,PhD,5.3,Researcher,40,AI Lab,138000,4.4
+32,Bachelor's,6.9,Developer,40,Engineering,100100,4.2
+38,Master's,12.4,Manager,52,Operations,166700,3.7
+27,PhD,0.0,Manager,44,Management,121400,3.9
+29,Bachelor's,6.0,Analyst,44,Finance,88200,3.7
+29,Master's,4.4,Analyst,47,Finance,95200,4.6
+22,Bachelor's,0.0,Developer,43,Engineering,69800,4.1
+34,Master's,7.0,Manager,41,Operations,130300,5.0
+33,Master's,6.6,Analyst,41,Analytics,93300,4.1
+32,Master's,5.4,Researcher,42,R&D,123000,3.7
+30,PhD,2.9,Researcher,42,R&D,128800,3.3
+22,Bachelor's,0.0,Manager,46,Operations,89100,3.2
+29,Bachelor's,5.3,Developer,42,Product,87000,3.3
+29,PhD,1.6,Researcher,46,AI Lab,129300,4.2
+26,Master's,2.0,Developer,42,Engineering,90800,4.4
+30,Master's,4.0,Researcher,42,AI Lab,120800,3.3
+34,Master's,8.3,Manager,32,Management,131400,4.5
+45,Bachelor's,18.5,Manager,47,Operations,163700,3.9
+33,Bachelor's,9.3,Developer,44,Product,106500,4.2
+33,Master's,5.5,Developer,47,Engineering,102800,4.9
+31,Bachelor's,8.5,Developer,30,Engineering,85200,4.5
+22,Bachelor's,0.0,Developer,52,Product,74300,4.0
+31,Bachelor's,7.4,Developer,41,Engineering,96400,3.7
+32,PhD,4.4,Researcher,48,R&D,145900,3.0
+49,PhD,21.3,Researcher,37,R&D,204600,3.7
+30,Master's,5.3,Developer,45,Engineering,99200,4.0
+34,Master's,6.6,Researcher,37,R&D,134700,3.6
+31,Bachelor's,7.5,Analyst,39,Analytics,90600,4.0
+23,Bachelor's,0.8,Analyst,52,Analytics,70300,4.1
+39,Master's,11.5,Researcher,41,R&D,150200,4.0
+37,Bachelor's,13.4,Developer,43,Product,119800,3.8
+37,PhD,9.7,Researcher,46,AI Lab,159100,4.2
+25,Master's,1.0,Analyst,44,Finance,78800,4.3
+41,PhD,10.9,Researcher,43,R&D,170700,3.6
+22,Bachelor's,0.0,Developer,44,Engineering,74400,4.8
+36,Master's,11.9,Analyst,54,Finance,126200,4.1
+47,Master's,21.5,Developer,42,Product,164400,4.1
+25,Master's,0.6,Developer,43,Product,82500,4.5
+28,Master's,3.9,Manager,47,Operations,111900,4.2
+32,Bachelor's,9.5,Manager,48,Management,132600,4.6
+28,Bachelor's,4.8,Manager,48,Management,111000,4.2
+22,Bachelor's,0.0,Developer,45,Engineering,67100,3.8
+32,Master's,6.1,Analyst,36,Finance,83000,4.3
+24,Master's,0.0,Developer,50,Engineering,87100,3.5
+35,Bachelor's,9.5,Developer,36,Engineering,99600,4.2
+25,Master's,0.9,Analyst,44,Analytics,69300,4.1
+42,Bachelor's,12.0,Researcher,38,AI Lab,127300,4.0
+26,PhD,0.0,Researcher,42,AI Lab,116500,4.0
+29,Master's,3.8,Analyst,44,Analytics,93200,3.2
+37,Master's,10.6,Manager,44,Management,151400,3.8
+23,Bachelor's,1.0,Manager,44,Management,90600,4.1
+33,Master's,6.6,Developer,50,Product,110300,4.2
+41,Bachelor's,14.0,Developer,44,Product,128900,3.6
+22,Bachelor's,0.0,Developer,41,Engineering,61800,4.7
+33,PhD,4.7,Analyst,47,Finance,106500,3.7
+33,Master's,6.2,Analyst,48,Analytics,102500,4.6
+37,PhD,7.8,Researcher,36,R&D,149500,4.3
+23,Master's,0.0,Developer,45,Product,80600,3.8
+22,Bachelor's,0.0,Developer,46,Engineering,69000,5.0
+35,Master's,8.8,Manager,41,Management,131200,3.5
+34,PhD,5.4,Developer,49,Product,116600,4.6
+33,Master's,8.7,Analyst,41,Analytics,103400,4.6
+34,Bachelor's,8.9,Developer,43,Engineering,106200,3.8
+27,Bachelor's,4.2,Developer,41,Engineering,87100,4.8
+33,Bachelor's,9.4,Manager,42,Operations,122900,4.0
+34,PhD,4.2,Researcher,37,AI Lab,136200,4.2
+26,Master's,1.7,Developer,35,Product,79100,4.2
+45,Bachelor's,15.4,Manager,50,Management,157600,4.0
+35,Master's,10.8,Manager,38,Operations,137800,4.5
+23,Bachelor's,0.7,Developer,37,Engineering,55800,4.5
+36,Bachelor's,10.7,Analyst,31,Analytics,96300,3.2
+25,Bachelor's,1.9,Analyst,39,Finance,65100,4.8
+37,Master's,13.0,Manager,35,Operations,146500,3.3
+40,Master's,12.8,Analyst,50,Finance,129000,4.6
+26,Master's,1.7,Analyst,47,Analytics,81800,4.7
+38,Master's,8.8,Analyst,39,Finance,96900,3.6
+34,PhD,6.3,Researcher,53,AI Lab,149700,3.9
+37,Master's,8.9,Manager,47,Operations,143200,3.5
+45,Master's,20.1,Manager,40,Operations,176400,4.0
+30,PhD,2.0,Researcher,30,AI Lab,116600,3.9
+26,Bachelor's,2.7,Analyst,53,Finance,71300,4.5
+25,Bachelor's,1.8,Developer,35,Engineering,70400,4.8
+26,Bachelor's,3.2,Analyst,34,Analytics,63500,4.8
+31,Master's,5.8,Analyst,47,Finance,90500,3.8
+34,Master's,6.3,Developer,54,Engineering,119300,4.0
+33,Master's,8.2,Analyst,49,Finance,105700,3.3
+37,Bachelor's,11.7,Developer,45,Product,114900,3.7
+32,Bachelor's,8.1,Developer,45,Engineering,103800,4.6
+42,Bachelor's,15.5,Analyst,46,Analytics,129500,4.9
+30,Bachelor's,6.1,Developer,46,Engineering,91400,3.5
+51,Master's,22.2,Analyst,43,Analytics,162900,3.8
+36,Bachelor's,9.3,Analyst,43,Analytics,98200,4.1
+25,Bachelor's,2.0,Developer,42,Product,77800,4.2
+24,Master's,0.0,Developer,38,Product,76100,3.7
+35,Bachelor's,12.7,Developer,41,Engineering,117700,4.3
+30,Master's,4.5,Manager,34,Operations,107800,3.9
+36,Master's,8.5,Researcher,42,R&D,139600,4.1
+35,Bachelor's,11.1,Manager,37,Management,124900,4.4
+31,Master's,5.3,Developer,36,Engineering,84400,4.1
+26,Master's,1.2,Manager,43,Operations,106200,3.9
+22,Master's,0.0,Manager,49,Management,107800,4.0
+28,Bachelor's,5.3,Analyst,47,Finance,73400,4.1
+37,PhD,8.6,Developer,34,Engineering,117300,3.9
+33,Master's,5.5,Analyst,37,Analytics,90200,4.0
+23,Bachelor's,0.7,Developer,47,Engineering,81800,4.9
+33,Master's,6.2,Researcher,37,AI Lab,125700,4.4
+34,PhD,6.1,Analyst,41,Analytics,103500,4.0
+25,Bachelor's,1.8,Manager,45,Operations,95800,4.4
+33,Bachelor's,7.1,Analyst,37,Analytics,87900,3.9
+32,Master's,7.4,Developer,43,Product,107900,4.7
+23,Bachelor's,0.7,Analyst,35,Finance,50700,4.3
+34,Bachelor's,10.3,Manager,39,Operations,125500,4.0
+35,Bachelor's,9.0,Developer,44,Engineering,102200,4.3
+39,Bachelor's,10.9,Developer,34,Product,106500,3.3
+39,Bachelor's,11.9,Analyst,44,Finance,114700,3.5
+22,Bachelor's,0.0,Developer,42,Product,67900,3.5
+25,Master's,0.9,Manager,45,Management,103800,4.2
+35,Bachelor's,12.1,Developer,43,Product,117100,5.0
+35,Bachelor's,9.9,Manager,49,Management,127500,5.0
+35,PhD,6.9,Developer,43,Product,124900,4.4
+58,Master's,23.2,Analyst,40,Finance,164100,4.4
+35,Master's,7.9,Researcher,43,AI Lab,136900,3.2
+39,Bachelor's,16.3,Researcher,45,R&D,175200,3.8
+38,Bachelor's,9.7,Analyst,42,Analytics,98500,3.7
+36,Bachelor's,8.9,Developer,42,Engineering,101000,3.8
+29,Bachelor's,4.8,Analyst,38,Finance,71900,4.0
+37,Bachelor's,9.2,Developer,39,Engineering,107400,3.9
+26,Bachelor's,2.7,Developer,35,Product,72800,3.1
+30,Bachelor's,6.7,Developer,51,Product,96200,4.5
+28,Bachelor's,4.6,Developer,36,Engineering,84800,3.6
+32,Master's,7.7,Analyst,39,Finance,95900,4.2
+48,Bachelor's,24.1,Manager,38,Operations,192100,5.0
+22,Bachelor's,0.0,Developer,46,Engineering,74100,3.6
+36,Master's,8.4,Developer,41,Engineering,111300,2.8
+22,Bachelor's,0.0,Researcher,48,AI Lab,101500,4.0
+28,Bachelor's,5.0,Developer,39,Engineering,85500,4.7
+39,Master's,10.6,Manager,43,Management,147300,5.0
+32,Master's,6.8,Developer,38,Engineering,105900,3.5
+24,Bachelor's,1.5,Analyst,53,Analytics,68300,4.3
+26,Master's,1.6,Manager,36,Operations,97900,3.9
+36,PhD,7.0,Manager,44,Management,146700,4.0
+26,Bachelor's,2.9,Developer,45,Product,79800,5.0
+33,Bachelor's,10.8,Manager,44,Management,131900,3.3
+32,Master's,7.2,Manager,41,Operations,124200,4.2
+27,Master's,2.0,Developer,41,Engineering,87900,4.3
+47,Bachelor's,23.7,Researcher,42,AI Lab,199400,4.6
+36,Bachelor's,11.1,Developer,41,Product,108100,4.1
+22,Bachelor's,0.0,Developer,47,Product,70700,4.3
+33,Master's,8.3,Researcher,53,AI Lab,152900,3.9
+27,Master's,2.3,Manager,39,Management,105500,4.2
+37,Bachelor's,9.1,Manager,35,Management,121000,3.9
+26,Bachelor's,2.8,Developer,42,Engineering,74100,4.4
+31,Master's,5.7,Developer,55,Product,114700,3.9
+35,Bachelor's,11.1,Researcher,38,R&D,134300,4.3
+38,Bachelor's,11.3,Developer,50,Engineering,124400,4.1
+23,Bachelor's,0.7,Analyst,50,Finance,70700,4.7
+29,Master's,4.7,Developer,39,Product,106300,4.1
+28,Bachelor's,6.0,Developer,45,Engineering,96500,3.2
+27,Bachelor's,4.1,Developer,50,Product,91500,4.7
+44,Bachelor's,14.7,Manager,40,Management,147500,3.6
+34,Master's,7.1,Manager,41,Operations,126200,3.8
+23,Bachelor's,0.6,Analyst,39,Analytics,58100,3.8
+38,Bachelor's,15.5,Developer,37,Engineering,126500,4.8
+46,Bachelor's,15.5,Researcher,39,AI Lab,155000,3.0
+39,Bachelor's,14.1,Developer,36,Engineering,126300,5.0
+22,Bachelor's,0.0,Analyst,42,Finance,52600,4.6
+28,Bachelor's,4.9,Analyst,38,Analytics,78500,4.2
+40,Bachelor's,15.5,Analyst,43,Analytics,127800,4.1
+27,Bachelor's,4.7,Analyst,34,Analytics,69500,4.2
+35,Bachelor's,8.9,Analyst,44,Finance,87100,4.4
+37,PhD,6.0,Researcher,46,AI Lab,142600,4.4
+25,Master's,0.7,Developer,32,Engineering,78700,4.4
+31,Master's,6.7,Developer,44,Engineering,108200,4.1
+22,Bachelor's,0.0,Analyst,48,Analytics,57400,4.0
+24,Bachelor's,1.7,Manager,36,Management,86900,4.0
+30,Bachelor's,6.7,Analyst,50,Analytics,94500,4.0
+23,Bachelor's,0.9,Developer,44,Product,74200,4.7
+43,Master's,12.7,Developer,38,Engineering,127800,4.4
+22,Bachelor's,0.0,Developer,42,Engineering,65100,2.6
+28,Bachelor's,4.6,Manager,45,Operations,106800,4.4
+32,Bachelor's,7.5,Developer,42,Engineering,94400,4.2
+42,Bachelor's,16.2,Developer,45,Engineering,143500,4.1
+22,Bachelor's,0.0,Developer,37,Engineering,61300,3.9
+40,Master's,10.7,Developer,43,Product,129200,4.7
+32,Master's,7.2,Manager,35,Operations,129300,4.6
+25,Bachelor's,1.9,Developer,41,Product,77800,3.7
+35,PhD,6.7,Researcher,37,R&D,139000,4.3
+33,Master's,6.3,Developer,38,Engineering,103500,3.6
+27,Bachelor's,3.8,Developer,48,Product,87300,3.4
+32,Bachelor's,7.2,Developer,47,Engineering,97200,3.8
+29,Bachelor's,5.2,Developer,45,Product,92100,4.5
+32,Bachelor's,8.9,Developer,37,Product,95300,4.6
+36,Bachelor's,10.1,Developer,40,Engineering,112200,4.4
+43,Bachelor's,17.4,Manager,48,Management,162600,4.5
+23,Bachelor's,0.8,Developer,43,Product,71600,4.4
+46,Bachelor's,20.8,Manager,54,Operations,184700,3.8
+22,Master's,0.0,Analyst,44,Finance,69200,4.3
+30,Bachelor's,7.1,Analyst,43,Analytics,89600,4.5
+36,Master's,8.2,Developer,40,Engineering,109500,4.5
+33,Master's,5.5,Manager,43,Operations,126000,4.7
+27,PhD,0.0,Developer,41,Engineering,85400,4.5
+30,Bachelor's,6.7,Developer,46,Product,98400,4.3
+28,Bachelor's,3.7,Researcher,47,R&D,118900,4.6
+27,PhD,0.0,Developer,38,Engineering,84400,4.1
+37,PhD,8.4,Researcher,35,AI Lab,143600,3.7
+34,Master's,7.3,Manager,33,Operations,124100,4.0
+27,Bachelor's,4.5,Analyst,45,Analytics,78600,3.7
+38,Bachelor's,10.3,Manager,36,Management,126500,3.8
+34,Master's,6.3,Developer,31,Product,98200,4.0
+37,PhD,8.9,Analyst,44,Finance,123100,3.7
+36,Master's,9.6,Manager,54,Management,153000,3.9
